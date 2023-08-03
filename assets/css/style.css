@@ -245,7 +245,7 @@ nav.nav-w {
 }
 
 .dashboardBtn:hover {
-  font-size: 0px;
+  color: azure;
 }
 
 .dashboardBtn:hover:after {
