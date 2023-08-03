@@ -245,5 +245,10 @@ nav.nav-w {
 }
 
 .dashboardBtn:hover {
-  content: "Hello";
+  font-size: 0px;
+}
+
+.dashboardBtn:hover:after {
+  content: "Dashboard";
+  font-size: 24px;
 }
