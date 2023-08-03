@@ -244,20 +244,6 @@ nav.nav-w {
   }
 }
 
-.dashboardBtn:before {
-  content: "Dashboard";
-  transition: 0.5s;
-}
-
-.dashboardBtn:after {
-  content: "Thank you";
-  transition: 0.5s;
-}
-
-.dashboardBtn:hover:before {
-  top: -50%;
-}
-
-.dashboardBtn:hover:after {
-  top: 50%;
+.dashboardBtn:hover {
+  content: "Hello";
 }
