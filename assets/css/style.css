@@ -252,3 +252,7 @@ nav.nav-w {
 .dashboardBtn:hover:after {
   content: " with Discord";
 }
+
+.helixcolor {
+  background-color: #cdcdad;
+}
