@@ -243,7 +243,3 @@ nav.nav-w {
     display: none;
   }
 }
-
-.dashboardBtn:hover {
-  content: "Dashboard"
-}
