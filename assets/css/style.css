@@ -249,5 +249,5 @@ nav.nav-w {
 }
 
 .dashboardBtn:hover:after {
-  content: "Dashboard";
+  content: " with Discord";
 }
