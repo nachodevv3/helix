@@ -248,10 +248,6 @@ nav.nav-w {
   color: azure;
 }
 
-.dashboardBtn:hover:after {
-  content: " with Discord";
-}
-
 .helixcolor {
   background-color: #cdcdad;
 }
